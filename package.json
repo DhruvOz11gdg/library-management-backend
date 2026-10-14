@@ -5,7 +5,7 @@
   "description": "alankar.me backend — products, SKUs, categories, ImgBB image upload and WhatsApp-checkout order intents for Shreeji Artificial Jewellery, Surat.",
   "main": "server.js",
   "engines": {
-    "node": ">=18"
+    "node": ">=20.9.0"
   },
   "scripts": {
     "start": "node server.js",
