@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Necklace",
+    "slug": "necklace",
+    "code": "NK",
+    "sortOrder": 1,
+    "description": "Artificial necklaces, choker sets and long haar for weddings, Navratri and daily wear."
+  },
+  {
+    "name": "Earrings",
+    "slug": "earrings",
+    "code": "ER",
+    "sortOrder": 2,
+    "description": "Jhumkas, studs, chandbali and oxidised earrings — light on the ear, heavy on the look."
+  },
+  {
+    "name": "Bangles/Kadas",
+    "slug": "bangles-kadas",
+    "code": "BK",
+    "sortOrder": 3,
+    "description": "Bangles and kadas in oxidised, kundan and pearl finishes, sold as singles and sets."
+  },
+  {
+    "name": "Rings",
+    "slug": "rings",
+    "code": "RG",
+    "sortOrder": 4,
+    "description": "Adjustable and fixed-size artificial rings for daily wear and gifting."
+  },
+  {
+    "name": "Bracelets",
+    "slug": "bracelets",
+    "code": "BR",
+    "sortOrder": 5,
+    "description": "Bracelets and hand-cuffs that pair with both traditional and western outfits."
+  },
+  {
+    "name": "Bridal Sets",
+    "slug": "bridal-sets",
+    "code": "BS",
+    "sortOrder": 6,
+    "description": "Complete bridal jewellery sets — necklace, earrings, maang tikka and bangles together."
+  },
+  {
+    "name": "Navratri/Oxidised",
+    "slug": "navratri-oxidised",
+    "code": "OX",
+    "sortOrder": 7,
+    "description": "Oxidised and mirror-work pieces for Navratri, garba and festive season rush."
+  },
+  {
+    "name": "Watches",
+    "slug": "watches",
+    "code": "WT",
+    "sortOrder": 8,
+    "description": "Fashion watches with jewellery-style straps and stone detailing."
+  },
+  {
+    "name": "Chokers",
+    "slug": "chokers",
+    "code": "CH",
+    "sortOrder": 1,
+    "parentSlug": "necklace",
+    "description": "Subcategory of Necklace — short choker-length pieces that sit at the collarbone."
+  }
+]

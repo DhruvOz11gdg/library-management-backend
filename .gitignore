@@ -1,0 +1,27 @@
+# ---- Secrets — never commit ----
+.env
+.env.*
+!.env.sample
+
+# ---- Dependencies ----
+node_modules/
+
+# ---- Logs ----
+logs/
+*.log
+npm-debug.log*
+
+# ---- Demo-mode database (npm run dev:demo) ----
+.mongo-data/
+
+# ---- Build / coverage output ----
+dist/
+build/
+coverage/
+
+# ---- Editor / OS noise ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
